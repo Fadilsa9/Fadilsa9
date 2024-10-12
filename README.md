@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ahmed Fadilsa
-- 👀 I’m interested in Software development
-- 🌱 I’m currently learning FastApi and Web Scraping
-- 💞️ I’m looking to programming experience in Software development
+- 👀 I’m interested in machine learning and software development
+- 🌱 I’m currently learning Pandas, FastApi and WebScraping
+- 💞️ I’m looking to programming experience in machine learning and software development
 - 📫 Respect ... 👍👍👍
 
 <!---
