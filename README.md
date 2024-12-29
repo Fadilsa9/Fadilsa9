@@ -8,3 +8,5 @@
 Fadilsa9/Fadilsa9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+![the-only-winning-move](https://github.com/user-attachments/assets/320a70d7-f6dd-4337-8a38-102995633364)
