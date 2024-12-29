@@ -4,6 +4,8 @@
 - 💞️ I’m looking to programming experience in machine learning and software development
 - 📫 Respect ... 👍👍👍
 
+* The mane repos are (the founder all) and (projects ml da)
+
 <!---
 Fadilsa9/Fadilsa9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
