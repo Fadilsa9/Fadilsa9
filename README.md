@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ Fadilsa
+- 👋 Hi, I’m @Fadilsa
 - 👀 I’m interested in machine learning and software development
 - 🌱 I’m currently learning Pandas, FastApi and WebScraping
 - 💞️ I’m looking to programming experience in machine learning and software development
