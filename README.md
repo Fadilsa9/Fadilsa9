@@ -4,7 +4,7 @@
 - 💞️ I’m looking to programming experience in machine learning and software development
 - 📫 Respect ... 👍👍👍
 
-* The mane repos are ("The founder all", "Projects ml da" and "ProblemSolverCodeAndLearn==for my learning projects")
+* The main repos are ("The founder all", "Projects ml da" and "ProblemSolverCodeAndLearn==for my learning projects")
 
 <!---
 Fadilsa9/Fadilsa9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
