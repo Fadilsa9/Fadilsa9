@@ -6,9 +6,6 @@
 
 * The main repos are ("The founder all", "Projects ml da" and "ProblemSolverCodeAndLearn==for my learning projects")
 
-![dactyl-clock](https://github.com/user-attachments/assets/94288731-92f4-493d-a25a-8cc3dc80d5da)
-
-
 <!---
 Fadilsa9/Fadilsa9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
